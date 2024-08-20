@@ -1,4 +1,5 @@
 # Hayes Roller's Robotics Portfolio 2024-25
+Student at Skyline High School. Projected graduation date in 2028.
 
 ## Projects for Term 1
 
